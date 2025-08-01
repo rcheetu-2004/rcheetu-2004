@@ -40,13 +40,15 @@ I’m a results-driven full stack developer with hands-on experience in building
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Can Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcheetu-2004&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcheetu-2004&theme=radical" alt="streak" />
-</p>
+✅ Build fully functional full-stack applications using **MongoDB, Express.js, React, Node.js**  
+✅ Design REST APIs with authentication & authorization using **JWT & cookies**  
+✅ Integrate **file upload**, **image hosting**, and form validations using Multer, Cloudinary, and Joi  
+✅ Build clean, modular, scalable backend code using **Express + Mongoose**  
+✅ Deploy apps using **Render, Netlify, or Vercel**  
+✅ Apply **Bootstrap or TailwindCSS** for responsive frontend UI  
+✅ Strong understanding of **DSA**, recursion, and **Binary Search techniques**  
 
 ---
 
@@ -54,18 +56,3 @@ I’m a results-driven full stack developer with hands-on experience in building
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/-rydhamcheetu4@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rydhamcheetu4@gmail.com)
-
-<!--
-**rcheetu-2004/rcheetu-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
